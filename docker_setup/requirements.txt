@@ -1,0 +1,4 @@
+gradio
+intel-extension-for-pytorch
+torch
+torchvision
