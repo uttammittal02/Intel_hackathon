@@ -13,7 +13,7 @@ def get_prediction(input_img):
         transforms.ToPILImage(),                       # Convert NumPy array to PIL image
         transforms.Resize((224, 224)),                # Resize to (224, 224)
         transforms.ToTensor(),                        # Convert image to PyTorch tensor
-        transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])  # Normalize
+        transforms.Normalize(mean=[0.5, 0.5, 0.5], std=[0.25, 0.25, 0.25])  # Normalize
     ])
 
     # Apply the transformations
