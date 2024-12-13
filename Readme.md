@@ -81,6 +81,13 @@ The model leverages state-of-the-art deep learning techniques and has been optim
 
 ---
 
+## **Presentation for the Hackathon**
+
+[INTC AI.Hackathon.2024 - vPitch.Presentation.Template.pptx (1).pdf](https://github.com/user-attachments/files/18129150/INTC.AI.Hackathon.2024.-.vPitch.Presentation.Template.pptx.1.pdf)
+
+
+---
+
 ## **Future Work**
 
 - Add support for GPU acceleration for faster inference on larger datasets.
