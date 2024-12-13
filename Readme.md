@@ -11,8 +11,9 @@ This project implements a deep learning pipeline using a Vision Transformer (ViT
 3. [Setup Instructions](#setup-instructions)
 4. [Model Details](#model-details)
 5. [Usage](#usage)
-6. [Future Work](#future-work)
-7. [Acknowledgments](#acknowledgments)
+6. [Presentation for the Hackathon](#Presentation-for-the-Hackathon)
+7. [Future Work](#future-work)
+8. [Acknowledgments](#acknowledgments)
 
 ---
 
