@@ -64,6 +64,7 @@ Start the application by running:
     http://localhost:7860
     ```
 You will see the Gradio-based user interface to upload images and view predictions.
+It's working demo can be seen [here](https://youtu.be/PXS2YCD3_Cs)
 
 ## **Model Details**
 
