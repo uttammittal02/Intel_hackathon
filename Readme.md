@@ -38,7 +38,7 @@ The application is containerized using **Docker**, allowing seamless deployment 
 
 ### **Pre-requisites**
 Ensure the following are installed and set up on your system:
-- **Docker**: [Install Docker](https://docs.docker.com/get-docker/)
+- **Docker**: [Install Docker](https://docs.docker.com/get-docker/) v 26.1.4
 - **Python** (optional for testing the notebook).
 
 ### **Steps to Run the Application**
